@@ -162,7 +162,7 @@
     <project path="sdnc/core" name="sdnc/core" groups="build,sdnc"/>
     <project path="sdnc/features" name="sdnc/features" groups="build,sdnc"/>
     <project path="sdnc/northbound" name="sdnc/northbound" groups="build,sdnc"/>
-    <project path="sdnc/oam" name="sdnc/oam" groups="build,sdnc"/>
+    <!-- <project path="sdnc/oam" name="sdnc/oam" groups="build,sdnc"/> -->
     <project path="sdnc/parent" name="sdnc/parent" groups="build,sdnc"/>
     <project path="sdnc/plugins" name="sdnc/plugins" groups="build,sdnc"/>
     <project path="so" name="so" groups="build,so"/>
